@@ -21,7 +21,7 @@ This assignment is divided into three parts:
 
 ## Assignment 1: Advanced EDA with D3.js
 
-## Objective: Perform an exhaustive exploratory data analysis (EDA) on a complex dataset from Kaggle using D3.js.
+**Objective**: Perform an exhaustive exploratory data analysis (EDA) on a complex dataset from Kaggle using D3.js.
 
 ## Tasks:
 - Pick a complex dataset from Kaggle.
@@ -30,7 +30,7 @@ This assignment is divided into three parts:
 
 ## Assignment 2: Auto EDA with Your Favorite Tool
 
-## Objective : Conduct an automated EDA on a Kaggle dataset using a tool of your choice.
+**Objective**: Conduct an automated EDA on a Kaggle dataset using a tool of your choice.
 
 ## Tasks:
 - Choose your favorite Kaggle dataset.
@@ -39,7 +39,7 @@ This assignment is divided into three parts:
 
 ## Assignment 3: Apache Beam in Colab
 
-## Objective: Showcase the capabilities of Apache Beam in a Colab notebook.
+**Objective**: Showcase the capabilities of Apache Beam in a Colab notebook.
 
 ## Tasks:
 - Demonstrate features like composite transform, pipeline IO, triggers, windowing, and ParDo.
